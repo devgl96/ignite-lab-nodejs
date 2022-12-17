@@ -11,7 +11,11 @@ As tecnologias que foram utilizadas são:
 
 - Inversão de Dependências & Injeção de Dependências
 - Modules, services e controllers
-- Arquitetura Limpa (Clean Arquitecture)
+- Arquitetura Limpa (Clean Architecture)
 - Testes casos de uso
 - In memory database -> Martin Fowler
 - DTO(Data Transfer Object)
+- Mappers
+  - Clean Architecture
+  - Port & Adapters
+- HTTP View-model
