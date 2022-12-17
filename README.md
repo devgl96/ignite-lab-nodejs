@@ -11,3 +11,7 @@ As tecnologias que foram utilizadas são:
 
 - Inversão de Dependências & Injeção de Dependências
 - Modules, services e controllers
+- Arquitetura Limpa (Clean Arquitecture)
+- Testes casos de uso
+- In memory database -> Martin Fowler
+- DTO(Data Transfer Object)
