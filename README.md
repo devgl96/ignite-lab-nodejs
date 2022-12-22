@@ -13,9 +13,12 @@ As tecnologias que foram utilizadas são:
 - Modules, services e controllers
 - Arquitetura Limpa (Clean Architecture)
 - Testes casos de uso
+- TDD
 - In memory database -> Martin Fowler
 - DTO(Data Transfer Object)
 - Mappers
   - Clean Architecture
   - Port & Adapters
 - HTTP View-model
+- Factory Pattern
+- Domain Driven Design (DDD)
